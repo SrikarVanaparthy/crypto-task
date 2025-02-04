@@ -1,6 +1,6 @@
 {
   "name": "crypto-app-react",
-  "homepage": "https://github.com/SrikarVanaparthy/crypto-task/",
+  "homepage": "https://github.com/SrikarVanaparthy/crypto-task",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
